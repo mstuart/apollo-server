@@ -24,7 +24,7 @@
     "node": ">=6"
   },
   "dependencies": {
-    "apollo-server-core": "2.0.0"
+    "apollo-server-core": "3.13.0"
   },
   "devDependencies": {
     "@types/body-parser": "1.17.0",
